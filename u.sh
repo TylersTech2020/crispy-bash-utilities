@@ -1,7 +1,7 @@
 #
 cd ..
 rm -rf crispy-bash-utilities
-echo "updating " | lolcat
+echo "updating ||||||||||| " | lolcat
 git clone https://github.com/HackersTech/crispy-bash-utilities
 cd crispy-bash-utilities
 echo "updated. !!!" | lolcat
