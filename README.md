@@ -5,7 +5,7 @@
 
 Here you get bash utilities for  encrypter / decrypter ,/ hash detector and random password generator 
 
-##Command to install tool
+## Command to install tool
 
 ### Termux --requirements
 >pkg install python
