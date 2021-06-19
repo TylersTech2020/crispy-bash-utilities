@@ -42,6 +42,7 @@ Here you get bash utilities for  encrypter / decrypter ,/ hash detector and rand
 https://instagram.com/hackers__tech?utm_medium=copy_link)
 [![TL](https://img.shields.io/badge/TELEGRAM-CHANNEL-green?style=for-the-badge&logo=telegram)](https://t.me/hacker_s_tech)
 [![TL](https://img.shields.io/badge/Twitter-account-red?style=for-the-badge&logo=Twitter)](https://twitter.com/HackersTech1?s=09)
+[![TL](https://img.shields.io/badge/reddit-account-lightgreen?style=for-the-badge&logo=reddit)](https://twitter.com/HackersTech1?s=09)
 
 
 Same id for reddit as twitter
