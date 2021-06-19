@@ -1,4 +1,6 @@
 ![Ht](https://img.shields.io/badge/Made%20by-hackersTech-brightgreen)
+
+---
 # crispy-bash-utilities
 
 Here you get bash utilities for  encrypter / decrypter ,/ hash detector and random password generator 
@@ -28,10 +30,10 @@ Here you get bash utilities for  encrypter / decrypter ,/ hash detector and rand
 
 - >bash b.sh
 
-
+---
 ### support us
 
-
+---
 <a href="https://youtube.com/channel/UCEX1r_jZouOOpKY7DiWIR6A"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hackers Tech-blue?style=for-the-badge&logo=Youtube"></a>
 
 - If need help then msg me on instagram id
