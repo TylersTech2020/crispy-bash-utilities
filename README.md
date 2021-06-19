@@ -18,5 +18,5 @@ Here you get bash utilities for  encrypter / decrypter ,/ hash detector and rand
 
 
 - git clone https://github.com/HackersTech/crispy-bash-utilities
--cd crispy-bash-utilities
-bash b.sh
+- >cd crispy-bash-utilities
+- >bash b.sh
