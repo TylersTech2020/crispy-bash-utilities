@@ -1,4 +1,6 @@
+![Ht](https://img.shields.io/badge/Made%20by-hackersTech-brightgreen)
 # crispy-bash-utilities
+
 Here you get bash utilities for  encrypter / decrypter ,/ hash detector and random password generator 
 
 ##Command to install tool
