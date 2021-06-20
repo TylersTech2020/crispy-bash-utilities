@@ -1,5 +1,6 @@
 #
 clear
+chmod +x b.sh
 bash m.sh | lolcat
 echo "what you want to choose " |lolcat 
 echo -e "\e[5;31m 1) Encrypter / Decrypter press 1 "
