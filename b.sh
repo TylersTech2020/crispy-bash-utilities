@@ -44,6 +44,9 @@ then
 bash u.sh
 elif [ "$m" == 6 ]
 then
+cd src
+cd source
+cd new
 bash r.sh
 else                        
 echo "error invalid input given exiting !!!"
