@@ -12,13 +12,13 @@ Here you get bash utilities for  encrypter / decrypter ,/ hash detector and rand
 ```
 >pkg install python
 
->pkg install git
+pkg install git
 
->pkg install ruby
+pkg install ruby
  
->gem install lolcat
+gem install lolcat
 
->pkg install python2
+pkg install python2
 ```
 
 ### For Linux just do these -
