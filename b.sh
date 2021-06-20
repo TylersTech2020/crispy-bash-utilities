@@ -7,7 +7,7 @@ echo -e "\e[5;32m 2) for random password hashed password generator 2"
 echo -e "\e[5;33m 3) for finding hashes of ecrypted password "
 echo -e "\e[5;36m 4) for transferring file through ssh to other machine press 4" |lolcat
 echo "for checking updates press 5"| lolcat
-echo -e "\e[5;31m 6) press 6 at your own risk !!!"
+echo -e "\e[5;31m 6) press 6 at your own risk !!!\e[0m "
 
 read -p "enter value in (digits) -:" m
 		  
