@@ -10,7 +10,7 @@ Here you get bash utilities for  encrypter / decrypter ,/ hash detector and rand
 
 ### Termux --requirements
 ```
->pkg install python
+pkg install python
 
 pkg install git
 
