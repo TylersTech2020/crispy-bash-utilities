@@ -27,11 +27,11 @@ pkg install python2
 
 
 - git clone https://github.com/HackersTech/crispy-bash-utilities
+```
+cd crispy-bash-utilities
 
-- >cd crispy-bash-utilities
-
-- >bash b.sh
-
+bash b.sh
+```
 ---
 ### support us
 
