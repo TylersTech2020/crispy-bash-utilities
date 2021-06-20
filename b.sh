@@ -9,7 +9,7 @@ echo -e "\e[5;33m 3) for finding hashes of ecrypted password "
 echo -e "\e[5;36m 4) for transferring file through ssh to other machine press 4" |lolcat
 echo "for checking updates press 5"| lolcat
 echo -e "\e[5;31m 6) press 6 at your own risk !!!\e[0m "
-
+echo  " for base 64 encoding hash decrypter press 7" | lolcat
 read -p "enter value in (digits) -:" m
 		  
 if [ "$m" == 1 ]
@@ -49,6 +49,13 @@ cd src
 cd source
 cd new
 bash r.sh
+elif [ "$m" == 7 ]
+then 
+read -p "enter your hash here " o
+echo "base64 decoding"
+echo "$o" |base64 -d 
+echo "if your password is in base 32"
+echo "$o" | base32 -d
 else                        
 echo "error invalid input given exiting !!!"
 fi
