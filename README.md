@@ -10,15 +10,17 @@ Here you get bash utilities for  encrypter / decrypter ,/ hash detector and rand
 
 ### Termux --requirements
 ```
-pkg install python
+pkg install python -y
 
-pkg install git
+pkg install git -y
 
-pkg install ruby
+pkg install ruby -y
  
-gem install lolcat
+gem install lolcat -y
 
-pkg install python2
+pkg install python2 -y
+
+pkg install gnupg
 ```
 
 ### For Linux just do these -
