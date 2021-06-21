@@ -27,7 +27,7 @@ echo "hashed in base32" |lolcat
 elif [ "$m" = 3 ]
 then
 echo "hash finder and decrypter"
-bash O.sh
+bash H.sh
 elif [ "$m" == 4 ]
 then
 echo "example - /root/Desktop/file/"
